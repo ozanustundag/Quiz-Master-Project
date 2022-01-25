@@ -24,14 +24,24 @@ ExportedObj/
 *.pdb
 *.opendb
 *.VC.db
-
+*.json
+*.log
+*.unity
+*.meta
+*.asset
+*.config
+*.vsconfig
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
+*.settings
+*.txt
+*.dwlt
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
 
 # Builds
+*.png
 *.apk
 *.unitypackage
