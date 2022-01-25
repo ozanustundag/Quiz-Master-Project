@@ -30,6 +30,8 @@ ExportedObj/
 *.meta
 *.asset
 *.config
+*.shader
+
 *.vsconfig
 # Unity3D generated meta files
 *.pidb.meta
